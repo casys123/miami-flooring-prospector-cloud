@@ -1,0 +1,8 @@
+streamlit==1.38.0
+beautifulsoup4==4.12.3
+requests==2.32.3
+tldextract==5.1.2
+phonenumbers==8.13.43
+pandas==2.2.2
+sendgrid==6.11.0
+user-agents==2.2.0
